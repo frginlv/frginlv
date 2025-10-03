@@ -5,8 +5,6 @@
 🐧 Recently switched to Linux and loving it  
 ⚡ Building projects while vibing with music  
 
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN1YXpjY3V0bTNmN241dzAxY2p0eGFsY2FmMDV4amc4b3A0bmlnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u3T7c4G8SbkpcRrqJp/giphy.gif)
-
 ---
 
 ## 🚀 Tech Stack
@@ -22,11 +20,20 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=frginlv&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=frginlv&theme=tokyonight&hide_border=false" alt="GitHub streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frginlv&layout=compact&theme=tokyonight&hide_border=false" alt="Top languages"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=frginlv&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub stats"/>
+        <img src="https://streak-stats.demolab.com?user=frginlv&theme=tokyonight&hide_border=false" alt="GitHub streak"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frginlv&layout=compact&theme=tokyonight&hide_border=false" alt="Top languages"/>
+      </p>
+    </td>
+    <td valign="top">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkyamk5Z3JrMXN1YzNrdTVzOThpencxd3JmMDN0YmxyOXQycWE4diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/D9pGZ4iAxhYGeoCGPj/giphy.gif" width="100" alt="Spinning Vinyl"/>
+    </td>
+  </tr>
+</table>
 
 ---
 

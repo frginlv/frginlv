@@ -24,15 +24,14 @@
   <tr>
     <td>
       <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=frginlv&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub stats"/>
         <img src="https://streak-stats.demolab.com?user=frginlv&theme=tokyonight&hide_border=false" alt="GitHub streak"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frginlv&layout=compact&theme=tokyonight&hide_border=false" alt="Top languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frginlv&layout=compact&theme=tokyonight&hide_border=false&langs_count=1" alt="Top language"/>
       </p>
     </td>
     <td valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmcxNXgyNzN0ZGo4NnlodHl6NjdpOWVwbWgzbHB1cWxhb3I1a21zZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/U3D4DHR7trnOrh26uA/giphy.gif" width="100" alt="First GIF"/><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmcxNXgyNzN0ZGo4NnlodHl6NjdpOWVwbWgzbHB1cWxhb3I1a21zZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hVfj148Hsqfn7aXu5j/giphy.gif" width="100" alt="Second GIF"/><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmcxNXgyNzN0ZGo4NnlodHl6NjdpOWVwbWgzbHB1cWxhb3I1a21zZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/r0KKXaQE7EidXA8qlb/giphy.gif" width="100" alt="Third GIF"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmcxNXgyNzN0ZGo4NnlodHl6NjdpOWVwbWgzbHB1cWxhb3I1a21zZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/U3D4DHR7trnOrh26uA/giphy.gif" width="80" alt="First GIF"/><br>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmcxNXgyNzN0ZGo4NnlodHl6NjdpOWVwbWgzbHB1cWxhb3I1a21zZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hVfj148Hsqfn7aXu5j/giphy.gif" width="80" alt="Second GIF"/><br>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmcxNXgyNzN0ZGo4NnlodHl6NjdpOWVwbWgzbHB1cWxhb3I1a21zZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/r0KKXaQE7EidXA8qlb/giphy.gif" width="80" alt="Third GIF"/>
     </td>
   </tr>
 </table>

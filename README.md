@@ -30,8 +30,9 @@
       </p>
     </td>
     <td valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkyamk5Z3JrMXN1YzNrdTVzOThpencxd3JmMDN0YmxyOXQycWE4diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/D9pGZ4iAxhYGeoCGPj/giphy.gif" width="100" alt="Spinning Vinyl"/><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Ym9rcnA3MjJ5eWtzM3dnaHV3emR4NmlhajdtNTZsM2N0cnZxajIyYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9vGxcWjJbpiZ3OJujX/giphy.gif" width="100" alt="Second GIF"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmcxNXgyNzN0ZGo4NnlodHl6NjdpOWVwbWgzbHB1cWxhb3I1a21zZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/U3D4DHR7trnOrh26uA/giphy.gif" width="100" alt="First GIF"/><br>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmcxNXgyNzN0ZGo4NnlodHl6NjdpOWVwbWgzbHB1cWxhb3I1a21zZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hVfj148Hsqfn7aXu5j/giphy.gif" width="100" alt="Second GIF"/><br>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmcxNXgyNzN0ZGo4NnlodHl6NjdpOWVwbWgzbHB1cWxhb3I1a21zZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/r0KKXaQE7EidXA8qlb/giphy.gif" width="100" alt="Third GIF"/>
     </td>
   </tr>
 </table>

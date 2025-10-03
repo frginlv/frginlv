@@ -1,35 +1,30 @@
-# Hi there, I’m frginlv 👋  
+# Hey, I’m frginlv 👋  
 
-💻 Passionate about code, design, and building cool stuff.  
-⚡ Always learning, always experimenting.  
-🎧 Coding with vibes.  
+🌱 Beginner dev, exploring code step by step  
+💻 Learning: HTML, CSS, JavaScript, and Python  
+🐧 Recently switched to Linux and loving it  
+⚡ Building projects while vibing with music  
 
 ---
 
 ## 🚀 Tech Stack
-- **Languages:** Python, JavaScript, C, C++  
-- **Frameworks & Tools:** Node.js, React, Git, Linux  
-- **Databases:** MySQL, MongoDB  
-- **Other:** Shell scripting, Markdown, GitHub Actions  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![frginlv's GitHub stats](https://github-readme-stats.vercel.app/api?username=frginlv&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=frginlv&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frginlv&layout=compact&theme=radical)  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=frginlv&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=frginlv&theme=tokyonight&hide_border=false" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frginlv&layout=compact&theme=tokyonight&hide_border=false" alt="Top languages"/>
+</p>
 
 ---
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
-
----
-
-## 🌐 Connect with me
-- [GitHub](https://github.com/frginlv)  
-- [LinkedIn](#) _(add later)_  
-- [Hackatime](#) _(coming soon)_  
-
----
-
-✨ *“Sacrifices must be made — but code is forever.”*  
+✨ *“Start small, stay consistent, grow big.”*  

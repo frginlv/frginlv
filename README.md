@@ -5,6 +5,8 @@
 🐧 Recently switched to Linux and loving it  
 ⚡ Building projects while vibing with music  
 
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN1YXpjY3V0bTNmN241dzAxY2p0eGFsY2FmMDV4amc4b3A0bmlnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u3T7c4G8SbkpcRrqJp/giphy.gif)
+
 ---
 
 ## 🚀 Tech Stack
@@ -16,7 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 </p>
-
 
 ---
 

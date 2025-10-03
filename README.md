@@ -21,6 +21,10 @@
 
 ---
 
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
+---
+
 ## 🌐 Connect with me
 - [GitHub](https://github.com/frginlv)  
 - [LinkedIn](#) _(add later)_  

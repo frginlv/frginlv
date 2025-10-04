@@ -41,4 +41,4 @@
 
 ---
 
-✨ *“Start small, stay consistent, grow big.”*  
+✨ *“Lock In,Big Dawg.”*  

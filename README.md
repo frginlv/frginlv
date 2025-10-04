@@ -1,4 +1,4 @@
-# Hey, I’m frginlv 👋  
+# Hey There, I’m frginlv 👋  
 
 🌱 Beginner dev, exploring code step by step  
 💻 Learning: HTML, CSS, JavaScript, and Python  
